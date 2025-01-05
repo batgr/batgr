@@ -1,5 +1,7 @@
-## Hi there 👋
-I'm Grevy, a fourth-grade cyber security student
+## Hi, I'm Grevy Batsotsa
+
+*Student in cyber security at*  [Esme Sudria](https://www.esme.fr)
+
 
 <!--
 **batgr/batgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
