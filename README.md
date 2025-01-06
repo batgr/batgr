@@ -4,7 +4,7 @@
 
 -I'm currently workink on: [Todo list app for desktop](https://github.com/batgr/todo_list)
 
--I made a website, check it out [Focus app](https://github.com/batgr/focusApp-website)
+-I made a website, check it out [Focus app](https://batgr.github.io/focusApp-website/)
 <!--
 **batgr/batgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
