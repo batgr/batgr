@@ -3,6 +3,7 @@
 *Student in cyber security at*  [Esme Sudria](https://www.esme.fr)
 
 -I'm currently workink on: [Todo list app for desktop](https://github.com/batgr/todo_list)
+https://github.com/user-attachments/assets/3ed5ba87-d734-4db9-a0b0-8457a7f59134
 
 -I made a website, check it out [Focus app](https://batgr.github.io/focusApp-website/)
 <!--
