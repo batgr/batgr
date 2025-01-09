@@ -2,11 +2,13 @@
 
 *Student in cyber security at*  [Esme Sudria](https://www.esme.fr)
 
+-I made a website, check it out here [Focus app](https://batgr.github.io/focusApp-website/)
+
 -I'm currently workink on: [Todo list app for desktop](https://github.com/batgr/todo_list)
 
 https://github.com/user-attachments/assets/3ed5ba87-d734-4db9-a0b0-8457a7f59134
 
--I made a website, check it out [Focus app](https://batgr.github.io/focusApp-website/)
+
 <!--
 **batgr/batgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
