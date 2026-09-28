@@ -6,7 +6,7 @@ MSc Artificial Intelligence at Heriot-Watt University and engineering double-deg
 
 | Project | What I built |
 | --- | --- |
-| [Conversational dynamics data](https://github.com/batgr/world-model-turn-taking-data) | Audits and a dataset-agnostic Python pipeline for EgoCom and Ego4D: synchronized vocal-state grids, leak-safe training windows, media manifests, label sidecars and provenance checks. |
+| [Conversational dynamics data](https://github.com/batgr/world-model-turn-taking-data) | A shared Python pipeline with corpus-specific adapters for EgoCom and Ego4D: audits, synchronized vocal-state grids, conversation-level splits, training windows, media manifests, label sidecars and provenance checks. |
 | [Turn-taking world model](https://github.com/batgr/world-model-turn-taking-model) | PyTorch/Lightning training and evaluation for an action-conditioned, JEPA-style latent dynamics model using frozen Mimi audio features. The [audio-only V2 branch](https://github.com/batgr/world-model-turn-taking-model/tree/v2/audio-only) contains the next pilot recipe; results are pending. |
 | [EgoCom release on Hugging Face](https://huggingface.co/datasets/batgre/conversational-dynamics-egocom) | Public, versioned action grid, model-ready indexes and optional speech/text labels. Raw media is not redistributed. |
 
