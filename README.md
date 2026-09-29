@@ -1,7 +1,6 @@
-# Name: Grévy Batsotsa
 
-Bio : MSc AI @ Heriot-Watt | Multimodal world models for conversational robots | Turn-taking, JEPA, planning
-Website : https://huggingface.co/batgre
+
+
 ## Current work
 
 | Project | What I built |
