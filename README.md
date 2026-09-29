@@ -1,7 +1,7 @@
-# Grévy Batsotsa
+# Name: Grévy Batsotsa
 
-MSc Artificial Intelligence at Heriot-Watt University and engineering double-degree student at ESME. I build reproducible data and model systems for conversational AI, with a research focus on multi-party turn-taking for social robots.
-
+Bio : MSc AI @ Heriot-Watt | Multimodal world models for conversational robots | Turn-taking, JEPA, planning
+Website : https://huggingface.co/batgre
 ## Current work
 
 | Project | What I built |
