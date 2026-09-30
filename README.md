@@ -8,7 +8,7 @@ Working on multimodal world models for conversational robots, with a focus on tu
 | Project | What I built |
 | --- | --- |
 | [ Conversational dynamics data](https://github.com/batgr/world-model-turn-taking-data) | A shared Python pipeline with corpus-specific adapters for EgoCom and Ego4D: audits, synchronized vocal-state grids, conversation-level splits, training windows, media manifests, label sidecars and provenance checks. |
-| [ Turn-taking world model](https://github.com/batgr/world-model-turn-taking-model) | PyTorch/Lightning training and evaluation for an action-conditioned, JEPA-style latent dynamics model using frozen Mimi audio features. The [audio-only V2 branch](https://github.com/batgr/world-model-turn-taking-model/tree/v2/audio-only) contains the current controlled ablations, latent analyses and research roadmap. |
+| [ Turn-taking world model](https://github.com/batgr/world-model-turn-taking-model) | This project develops a JEPA-style latent world model that learns conversational dynamics to support planning-based turn-taking decisions in multi-party social-robot interactions.
 | [ EgoCom release on Hugging Face](https://huggingface.co/datasets/batgre/conversational-dynamics-egocom) | Public, versioned action grid, model-ready indexes and optional speech/text labels. Raw media is not redistributed. |
 
 The research goal is multimodal, multi-party turn-taking for live social-robot interaction.
