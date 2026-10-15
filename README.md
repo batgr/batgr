@@ -19,7 +19,7 @@ Looking for research internships from early 2027.
 | Project | What it does |
 | --- | --- |
 | [Turn-taking world model](https://github.com/batgr/world-model-turn-taking-model) | A frozen encoder (Mimi, log-mel, or any audio/video encoder) gives latents; a causal Transformer predicts future latents from vocal actions. Teacher forcing, open-loop rollouts with a horizon curriculum, SIGReg. |
-| [Conversational dynamics data](https://github.com/batgr/world-model-turn-taking-data) | An 8-stage pipeline that audits Ego4D and EgoCom and puts them on one grid of the wearer's vocal state: 614 recordings, 2.2M training windows, 116 labels, checksums at every stage. |
+| [Conversational dynamics data](https://github.com/batgr/world-model-turn-taking-data) | A reproducible pipeline that turns egocentric conversation corpora (Ego4D AV, EgoCom) into one versioned, model-ready turn-taking dataset |
 | [EgoCom release on Hugging Face](https://huggingface.co/datasets/batgre/conversational-dynamics-egocom) | Public, versioned action grid and model-ready index, at [10 Hz](https://huggingface.co/datasets/batgre/conversational-dynamics-egocom) and [12.5 Hz](https://huggingface.co/datasets/batgre/conversational-dynamics-egocom-12.5hz). Raw media is not redistributed. |
 
 ## Tools
